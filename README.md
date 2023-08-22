@@ -41,7 +41,3 @@ This is a simple Python program that demonstrates data analysis and visualizatio
   - `requests`
   - `pandas`
   - `matplotlib`
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
